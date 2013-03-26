@@ -2,7 +2,6 @@
 #define FIREWALL_H_
 
 #include "ruleset.h"
-#include <linux/types.h>
 
 // data packet
 typedef struct {
